@@ -3,7 +3,7 @@
 Here, we provide the pytorch implementation of the paper: Rethinking Semantic-level Building Change Detection: Ensemble Learning and Dynamic Interaction.
 
 * For binary-level BCD: 
-[binary-level](https://github.com/fengyuchao97/DIELNet/CD_for_binary)
+[binary-level]([https://github.com/fengyuchao97/DIELNet/CD_for_binary](https://github.com/fengyuchao97/DIELNet/tree/main/CD_for_binary))
 * For semantic-level BCD:
 [semantic-level](https://github.com/fengyuchao97/DIELNet/CD_for_semantic)
 
