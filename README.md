@@ -2,6 +2,11 @@
 
 Here, we provide the pytorch implementation of the paper: Rethinking Semantic-level Building Change Detection: Ensemble Learning and Dynamic Interaction.
 
+## Papers
+* Change Detection on Bi-temporal Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network (TGARS 2023) [paper](https://ieeexplore.ieee.org/document/10034787) and [source_code](https://github.com/ZhengJianwei2/DMINet/)
+* ICIF-Net: Intra-Scale Cross-Interaction and Inter-Scale Feature Fusion Network for Bitemporal Remote Sensing Images Change Detection (TGARS 2022) [paper](https://ieeexplore.ieee.org/document/9759285) and [source_code](https://github.com/ZhengJianwei2/ICIF-Net/)
+
+
 * For binary-level BCD: 
 [binary-level](https://github.com/fengyuchao97/DIELNet/tree/main/CD_for_binary)
 
