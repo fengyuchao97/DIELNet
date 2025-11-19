@@ -1,4 +1,4 @@
-# Rethinking Semantic-level Building Change Detection: Ensemble Learning and Dynamic Interaction
+# Rethinking Semantic-level Building Change Detection: Ensemble Learning and Dynamic Interaction (TGARS, 2025)
 
 Here, we provide the pytorch implementation of the paper: Rethinking Semantic-level Building Change Detection: Ensemble Learning and Dynamic Interaction.
 
