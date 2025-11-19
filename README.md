@@ -67,6 +67,9 @@ Semantic-level visual results of different methods with ensemble learning on rep
 ![spped](./images/images/16.speed.PNG)
 Comparison of GPU memory usage (bar) and inference time (line) under batch size 64 and spatial size 256 × 256.
 
+![features](./images/images/17.features.PNG)
+Illustration of the activation maps of the proposed DIELNet on a given WHU image pair.
+
 ## Cite
 If you use our method in your work please cite our paper:
 * BibTex：
@@ -98,9 +101,33 @@ If you use our method in your work please cite our paper:
 
 * Plane Text：
 	
-    Y. Feng, J. Jiang, H. Xu and J. Zheng, "Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3241257.
+    Y. Feng, J. Jiang, H. Xu and J. Zheng, "Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3241257
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        .
     
-    Y. Feng, H. Xu, J. Jiang, H. Liu and J. Zheng, "ICIF-Net: Intra-Scale Cross-Interaction and Inter-Scale Feature Fusion Network for Bitemporal Remote Sensing Images Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 4410213, doi: 10.1109/TGRS.2022.3168331.
+    Y. Feng, H. Xu, J. Jiang, H. Liu and J. Zheng, "ICIF-Net: Intra-Scale Cross-Interaction and Inter-Scale Feature Fusion Network for Bitemporal Remote Sensing Images Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 4410213, doi: 10.1109/TGRS.2022.3168331
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        .
     
     
     
